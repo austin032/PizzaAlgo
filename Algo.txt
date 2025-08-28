@@ -1,2 +1,5 @@
 Decide which buisness to order from
 Decide which type of pizza to order
+Call the place
+Toppings, Pep and Sasuage
+How much is the delivery
